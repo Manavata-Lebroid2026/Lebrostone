@@ -1,0 +1,4 @@
+Options -Indexes
+
+# Internal source, database seeds and CLI tests must not be served over HTTP.
+RedirectMatch 403 "(^|/)(application|database|tests)(/|$)"

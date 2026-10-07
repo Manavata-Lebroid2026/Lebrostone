@@ -1,0 +1,69 @@
+CREATE TABLE IF NOT EXISTS users (
+    id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(191) NOT NULL UNIQUE,
+    password_hash VARCHAR(255) NOT NULL,
+    role VARCHAR(20) NOT NULL DEFAULT 'customer',
+    active TINYINT(1) NOT NULL DEFAULT 1,
+    session_version INT UNSIGNED NOT NULL DEFAULT 1,
+    phone VARCHAR(20) NOT NULL DEFAULT '',
+    address_data LONGTEXT NULL,
+    cart_data LONGTEXT NULL,
+    wishlist_data LONGTEXT NULL,
+    created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE IF NOT EXISTS orders (
+    id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    order_number VARCHAR(40) NOT NULL UNIQUE,
+    user_id INT UNSIGNED NOT NULL,
+    idempotency_key VARCHAR(64) NOT NULL,
+    request_hash CHAR(64) NOT NULL,
+    status VARCHAR(20) NOT NULL DEFAULT 'pending',
+    payment_method VARCHAR(20) NULL DEFAULT NULL,
+    payment_status VARCHAR(20) NOT NULL DEFAULT 'not_configured',
+    subtotal_paise BIGINT UNSIGNED NOT NULL,
+    discount_paise BIGINT UNSIGNED NOT NULL DEFAULT 0,
+    shipping_paise BIGINT UNSIGNED NOT NULL DEFAULT 0,
+    total_paise BIGINT UNSIGNED NOT NULL,
+    coupon VARCHAR(40) NOT NULL DEFAULT '',
+    address_data LONGTEXT NOT NULL,
+    tracking_number VARCHAR(100) NOT NULL DEFAULT '',
+    created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES users(id),
+    UNIQUE KEY user_request (user_id, idempotency_key),
+    KEY order_created (created_at)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE IF NOT EXISTS order_items (
+    id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    order_id INT UNSIGNED NOT NULL,
+    product_id VARCHAR(191) NOT NULL,
+    sku VARCHAR(191) NOT NULL,
+    product_name VARCHAR(255) NOT NULL,
+    size VARCHAR(100) NOT NULL,
+    image VARCHAR(512) NOT NULL,
+    quantity INT UNSIGNED NOT NULL,
+    unit_price_paise BIGINT UNSIGNED NOT NULL,
+    tracked_stock TINYINT(1) NOT NULL DEFAULT 0,
+    FOREIGN KEY (order_id) REFERENCES orders(id),
+    FOREIGN KEY (product_id) REFERENCES products(id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE IF NOT EXISTS order_events (
+    id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    order_id INT UNSIGNED NOT NULL,
+    actor_id INT UNSIGNED NOT NULL,
+    status VARCHAR(20) NOT NULL,
+    created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (order_id) REFERENCES orders(id),
+    FOREIGN KEY (actor_id) REFERENCES users(id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE IF NOT EXISTS login_attempts (
+    id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    attempt_key CHAR(64) NOT NULL,
+    created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    KEY attempt_lookup (attempt_key, created_at)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

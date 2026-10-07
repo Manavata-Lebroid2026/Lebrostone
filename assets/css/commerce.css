@@ -1,0 +1,94 @@
+.commerce-page { min-height: 65vh; padding: 56px 0 72px; }
+.commerce-heading { margin-bottom: 32px; }
+.commerce-heading h1 { margin: 0 0 12px; color: var(--green-deep); font-size: clamp(32px, 4vw, 52px); letter-spacing: -.04em; }
+.commerce-heading > p:last-child { max-width: 600px; color: var(--ink-soft); }
+.shop-panel { background: #fffdf9; border: 1px solid var(--line); border-radius: 16px; padding: 28px; margin-bottom: 24px; }
+.shop-panel h2 { margin: 0 0 22px; font-size: 24px; letter-spacing: -.03em; color: var(--green-deep); }
+.shop-panel h3 { margin: 24px 0 14px; font-size: 18px; }
+.shop-form { display: grid; gap: 18px; }
+.shop-form .primary-button, .shop-form .secondary-button { width: fit-content; }
+.shop-field { display: grid; gap: 8px; margin: 0; min-width: 0; font-size: 14px; }
+.shop-field > span { font-weight: 600; color: var(--green-deep); }
+.shop-field input, .shop-field select, .shop-field textarea { width: 100%; min-height: 46px; padding: 11px 13px; border: 1px solid #c8d0c8; background: white; color: var(--green-deep); border-radius: 6px; font: inherit; }
+.shop-field input:focus, .shop-field select:focus, .shop-field textarea:focus { outline: 2px solid var(--green); outline-offset: 2px; }
+.shop-field input[readonly] { background: #f1f2ed; color: var(--ink-soft); }
+.shop-field textarea { resize: vertical; }
+.shop-form-grid, .account-layout { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+.shop-check { display: flex; align-items: baseline; flex-wrap: wrap; gap: 8px; font-size: 14px; line-height: 1.7; }
+.shop-check input { width: 18px; height: 18px; accent-color: var(--green); }
+.shop-check a, .text-link { color: var(--green); text-decoration: underline; text-underline-offset: 4px; background: transparent; font-size: 14px; cursor: pointer; }
+.text-link { padding: 8px 0; }
+.form-message { margin: 0; font-size: 14px; color: var(--green); line-height: 1.6; }
+.form-message[hidden] { display: none; }
+.form-message.is-error, .danger-button { color: #963c2f; }
+.field-help { margin: 0; font-size: 13px; color: var(--ink-soft); line-height: 1.6; }
+.auth-layout { display: grid; grid-template-columns: 1fr 1fr; max-width: 1000px; gap: 60px; margin: 0 auto; align-items: center; }
+.auth-intro h2 { font-family: Georgia, serif; font-size: clamp(36px, 4vw, 64px); font-weight: 400; line-height: 1.1; color: var(--green); }
+.auth-intro p { max-width: 370px; color: var(--ink-soft); margin: 24px 0; line-height: 1.8; }
+.auth-tabs { display: flex; gap: 20px; margin-bottom: 28px; border-bottom: 1px solid var(--line); }
+.auth-tabs button { padding: 12px 0; background: transparent; color: var(--ink-soft); font-weight: 600; }
+.auth-tabs button[aria-pressed="true"] { color: var(--green); border-bottom: 2px solid var(--green); }
+.account-nav, .admin-nav { display: flex; align-items: center; flex-wrap: wrap; gap: 12px 24px; padding-bottom: 20px; margin-bottom: 28px; border-bottom: 1px solid var(--line); }
+.account-nav a, .account-nav button, .admin-nav a, .admin-nav button { min-height: 40px; padding: 8px 0; color: var(--green); background: transparent; font-size: 14px; }
+.admin-nav [aria-current="page"] { font-weight: 700; box-shadow: 0 2px 0 var(--green); }
+.account-nav [data-account-logout] { margin-left: auto; }
+.saved-address { grid-column: 1 / -1; }
+.shop-panel address { font-style: normal; color: var(--ink-soft); line-height: 1.8; margin-bottom: 24px; }
+.checkout-layout, .order-detail-layout { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); align-items: start; gap: 28px; }
+.checkout-line { display: grid; grid-template-columns: 56px minmax(0, 1fr) auto; align-items: center; gap: 14px; padding: 16px 0; border-bottom: 1px solid var(--line); font-size: 14px; }
+.checkout-line img { width: 56px; height: 64px; border-radius: 6px; object-fit: contain; background: #f4f2ec; }
+.checkout-line strong { display: block; font-weight: 500; line-height: 1.5; }
+.checkout-line small { display: block; color: var(--ink-soft); margin-top: 4px; }
+.order-totals { padding: 20px 0; }
+.order-totals > div { display: flex; justify-content: space-between; gap: 18px; padding: 8px 0; font-size: 14px; }
+.order-totals .order-total { border-top: 1px solid var(--line); margin-top: 12px; padding-top: 20px; font-size: 19px; }
+.coupon-form { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: end; gap: 12px; margin-bottom: 22px; }
+.coupon-form .form-message { grid-column: 1 / -1; }
+.checkout-button { display: block; width: 100%; margin-bottom: 12px; }
+.cart-summary > .primary-button[data-route="shop"] { background: transparent; color: var(--green); border-color: var(--line); }
+.order-detail-heading, .admin-section-heading { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px; margin-bottom: 20px; }
+.order-detail-heading h2, .admin-section-heading h2 { margin: 0; }
+.order-status { display: inline-block; padding: 5px 10px; border-radius: 999px; background: #edf1e7; color: #405334; font-size: 12px; font-weight: 600; text-transform: capitalize; }
+.status-pending { background: #fcf1d6; color: #72551b; }
+.status-cancelled { background: #f7e9e5; color: #963c2f; }
+.status-delivered { background: #e0efe4; color: #2b603d; }
+.order-timeline { padding: 0 0 0 20px; margin: 0; }
+.order-timeline li { padding: 8px 0 8px 6px; }
+.order-timeline strong { display: block; text-transform: capitalize; font-size: 14px; }
+.order-timeline span { display: block; font-size: 12px; margin-top: 4px; color: var(--ink-soft); }
+.shop-table-wrap { overflow-x: auto; }
+.shop-table { width: 100%; border-collapse: collapse; font-size: 14px; min-width: 580px; }
+.shop-table th { padding: 14px 12px; text-align: left; border-bottom: 2px solid var(--line); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--ink-soft); }
+.shop-table td { padding: 16px 12px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+.shop-table td small { display: block; margin-top: 5px; color: var(--ink-soft); }
+.shop-pagination { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 24px; font-size: 14px; }
+.admin-stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; }
+.admin-stats span { display: block; color: var(--ink-soft); font-size: 13px; }
+.admin-stats strong { display: block; font-size: 34px; margin-top: 16px; color: var(--green); }
+.admin-order-value { font-size: 32px; font-weight: 600; color: var(--green); }
+.admin-product-name { display: flex; align-items: center; gap: 12px; min-width: 220px; }
+.admin-product-name img { width: 44px; height: 52px; object-fit: contain; }
+.admin-section-heading + .shop-field { max-width: 420px; margin-bottom: 20px; }
+.admin-photo { display: flex; align-items: center; flex-wrap: wrap; gap: 20px; }
+.admin-photo img { width: 110px; height: 120px; object-fit: contain; border: 1px solid var(--line); border-radius: 8px; }
+.admin-photo img[hidden] { display: none; }
+.admin-variant { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; border: 1px solid var(--line); border-radius: 10px; padding: 20px; margin-bottom: 16px; background: #f7f7f0; }
+@media (max-width: 900px) {
+  .auth-layout { gap: 30px; }
+  .checkout-layout, .order-detail-layout { grid-template-columns: 1fr; }
+  .admin-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 600px) {
+  .commerce-page { padding: 32px 0 48px; }
+  .shop-panel { padding: 20px; }
+  .auth-layout, .account-layout, .shop-form-grid { grid-template-columns: 1fr; gap: 18px; }
+  .auth-intro { display: none; }
+  .saved-address { grid-column: auto; }
+  .account-nav [data-account-logout] { margin-left: 0; }
+  .checkout-line { grid-template-columns: 44px minmax(0, 1fr) auto; gap: 10px; font-size: 12px; }
+  .checkout-line img { width: 44px; height: 56px; }
+  .coupon-form { grid-template-columns: 1fr; }
+  .admin-variant { grid-template-columns: repeat(2, minmax(0, 1fr)); padding: 14px; }
+  .admin-stats { gap: 12px; }
+  .admin-stats .shop-panel { padding: 16px; }
+}

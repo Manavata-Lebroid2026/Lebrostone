@@ -1,0 +1,3706 @@
+[
+    {
+        "id": "cream",
+        "sourceId": "6ab364bb8bb73ab4ca271ba4",
+        "name": "Lebrostone Antifungal Cream",
+        "fullName": "Lebrostone Antifungal Cream – Ayurvedic Herbal Cream for Ringworm, Itching & Fungal Infection Relief. (15g)",
+        "category": "Skin Care",
+        "badge": "Featured cream",
+        "concerns": [],
+        "price": 180,
+        "mrp": 280,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "15 g",
+        "image": "catalogue/6ab364bb8bb73ab4ca271ba4.png",
+        "description": "Lebrostone’s Ayurvedic antifungal cream, available in 15 g and 25 g packs. Read the product label for ingredients, directions and precautions.",
+        "details": [
+            "Antifungal",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/lebrostone-antifungal-cream/6ab364bb8bb73ab4ca271ba4",
+        "variants": [
+            {
+                "id": "6ab364bb8bb73ab4ca271ba4-6ab3672c8bb73ab4ca27219c",
+                "size": "25g",
+                "price": 220,
+                "mrp": 465,
+                "inStock": true,
+                "stockQty": 500
+            }
+        ]
+    },
+    {
+        "id": "69dcc4c642763c4cfe8e1183",
+        "sourceId": "69dcc4c642763c4cfe8e1183",
+        "name": "Indrayan Phal Powder",
+        "fullName": "Indrayan Phal Powder – 100% Pure & Natural Citrullus Colocynthis Powder for Ayurvedic Use.",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 150,
+        "mrp": 249,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "100 g",
+        "image": "catalogue/69dcc4c642763c4cfe8e1183.webp",
+        "description": "Explore Indrayan Phal Powder from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/indrayan-phal-powder/69dcc4c642763c4cfe8e1183",
+        "variants": [
+            {
+                "id": "69dcc4c642763c4cfe8e1183-6abcb509e7d88db0ec5ead56",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 500
+            }
+        ]
+    },
+    {
+        "id": "soap",
+        "sourceId": "69bd2a680f054c904f20339a",
+        "name": "Lebrostone Multani Mitti face pack Soap",
+        "fullName": "Lebrostone Multani Mitti face pack Soap| Deep Cleanse| tan Removal| 100gm",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 150,
+        "mrp": 249,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "100 g",
+        "image": "catalogue/69bd2a680f054c904f20339a.jpg",
+        "description": "Explore Lebrostone Multani Mitti face pack Soap from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/lebrostone-multani-mitti-face-pack-soap/69bd2a680f054c904f20339a",
+        "variants": []
+    },
+    {
+        "id": "69bbec08d16a9ca49766e6b6",
+        "sourceId": "69bbec08d16a9ca49766e6b6",
+        "name": "Dhawai Flower Powder (Dhataki)",
+        "fullName": "Dhawai Flower Powder (Dhataki) – 100% Pure & Natural Woodfordia Fruticosa Powder for Skin & Ayurvedic",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 249,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69bbec08d16a9ca49766e6b6.webp",
+        "description": "Explore Dhawai Flower Powder (Dhataki) from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/dhawai-flower-powder-dhataki-/69bbec08d16a9ca49766e6b6",
+        "variants": [
+            {
+                "id": "69bbec08d16a9ca49766e6b6-6a9a7ab85848c581e16795e3",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69bbe8c9d16a9ca49766d842",
+        "sourceId": "69bbe8c9d16a9ca49766d842",
+        "name": "Deodar Wood",
+        "fullName": "Deodar Wood – 100% Pure & Natural Cedar Wood for Herbal & Aromatic Use",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69bbe8c9d16a9ca49766d842.webp",
+        "description": "Explore Deodar Wood from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/deodar-wood/69bbe8c9d16a9ca49766d842",
+        "variants": [
+            {
+                "id": "69bbe8c9d16a9ca49766d842-6a3cfb610ca58d5116f26625",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69bbe54ed16a9ca49766d44e",
+        "sourceId": "69bbe54ed16a9ca49766d44e",
+        "name": "Dashmool Powder",
+        "fullName": "Dashmool Powder – 100% Pure & Natural Ayurvedic Herbal Blend for Strength, Immunity & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69bbe54ed16a9ca49766d44e.webp",
+        "description": "Explore Dashmool Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/dashmool-powder/69bbe54ed16a9ca49766d44e",
+        "variants": [
+            {
+                "id": "69bbe54ed16a9ca49766d44e-6a3cfc760ca58d5116f27b68",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69bbe256d16a9ca49766cd37",
+        "sourceId": "69bbe256d16a9ca49766cd37",
+        "name": "Daru Haldi Chips (Tree Turmeric)",
+        "fullName": "Daru Haldi Chips (Tree Turmeric) – 100% Pure & Natural Herbal Chips for Skin, Liver & Wellness",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69bbe256d16a9ca49766cd37.webp",
+        "description": "Explore Daru Haldi Chips (Tree Turmeric) from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/daru-haldi-chips-tree-turmeric-/69bbe256d16a9ca49766cd37",
+        "variants": [
+            {
+                "id": "69bbe256d16a9ca49766cd37-6ab65cb99486abd5f910c6dd",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 4
+            }
+        ]
+    },
+    {
+        "id": "69bbd8d0d16a9ca49766ba71",
+        "sourceId": "69bbd8d0d16a9ca49766ba71",
+        "name": "Corn Silk Powder",
+        "fullName": "Corn Silk Powder – 100% Pure & Natural Makai Resha Powder for Kidney Health & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69bbd8d0d16a9ca49766ba71.webp",
+        "description": "Explore Corn Silk Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/corn-silk-powder/69bbd8d0d16a9ca49766ba71",
+        "variants": [
+            {
+                "id": "69bbd8d0d16a9ca49766ba71-6a3d09ab0ca58d5116f364ac",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69bbd5b0d16a9ca49766b6a4",
+        "sourceId": "69bbd5b0d16a9ca49766b6a4",
+        "name": "Coleus Root Powder",
+        "fullName": "Coleus Root Powder – 100% Pure & Natural Herbal Powder for Weight Management",
+        "category": "Weight Management",
+        "badge": "Weight Management",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69bbd5b0d16a9ca49766b6a4.webp",
+        "description": "Explore Coleus Root Powder from Lebrostone’s Weight Management collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "WEIGHT MANAGEMENT",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/coleus-root-powder/69bbd5b0d16a9ca49766b6a4",
+        "variants": [
+            {
+                "id": "69bbd5b0d16a9ca49766b6a4-6a3d0a5b0ca58d5116f36de6",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69bbc6fcb00155f2e0ccb1c3",
+        "sourceId": "69bbc6fcb00155f2e0ccb1c3",
+        "name": "Chia Seeds Powder",
+        "fullName": "Chia Seeds Powder – 100% Pure & Natural Superfood Powder for Weight Management & Wellness",
+        "category": "Weight Management",
+        "badge": "Weight Management",
+        "concerns": [],
+        "price": 160,
+        "mrp": 249,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69bbc6fcb00155f2e0ccb1c3.webp",
+        "description": "Explore Chia Seeds Powder from Lebrostone’s Weight Management collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "WEIGHT MANAGEMENT",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/chia-seeds-powder/69bbc6fcb00155f2e0ccb1c3",
+        "variants": [
+            {
+                "id": "69bbc6fcb00155f2e0ccb1c3-6a9a79d65848c581e16789c7",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69bbc178b00155f2e0cc9e62",
+        "sourceId": "69bbc178b00155f2e0cc9e62",
+        "name": "Chamomile Flower Powder",
+        "fullName": "Chamomile Flower Powder – 100% Pure & Natural Herbal Powder for Skin, Hair & Relaxation",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69bbc178b00155f2e0cc9e62.webp",
+        "description": "Explore Chamomile Flower Powder from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/chamomile-flower-powder/69bbc178b00155f2e0cc9e62",
+        "variants": [
+            {
+                "id": "69bbc178b00155f2e0cc9e62-6ab7596c5f23690f7cc7c43b",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 1
+            }
+        ]
+    },
+    {
+        "id": "69bbb3c0b00155f2e0cc90fa",
+        "sourceId": "69bbb3c0b00155f2e0cc90fa",
+        "name": "Cassia Tora Powder",
+        "fullName": "Cassia Tora Powder – 100% Pure & Natural Herbal Powder for Skin, Hair & Wellness",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69bbb3c0b00155f2e0cc90fa.webp",
+        "description": "Explore Cassia Tora Powder from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/cassia-tora-powder/69bbb3c0b00155f2e0cc90fa",
+        "variants": [
+            {
+                "id": "69bbb3c0b00155f2e0cc90fa-6a3d10670ca58d5116f3cd63",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69bbafc8b00155f2e0cc81e2",
+        "sourceId": "69bbafc8b00155f2e0cc81e2",
+        "name": "Burdock Root Powder",
+        "fullName": "Burdock Root Powder – 100% Pure & Natural Herbal Powder for Detox, Skin & Wellness",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69bbafc8b00155f2e0cc81e2.webp",
+        "description": "Explore Burdock Root Powder from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/burdock-root-powder/69bbafc8b00155f2e0cc81e2",
+        "variants": [
+            {
+                "id": "69bbafc8b00155f2e0cc81e2-6a3d119c0ca58d5116f3de92",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69bbac54b00155f2e0cc793c",
+        "sourceId": "69bbac54b00155f2e0cc793c",
+        "name": "Bhilawa Seeds Powder 100%",
+        "fullName": "Bhilawa Seeds Powder 100% – Pure Ayurvedic Semecarpus Anacardium Powder for External Use",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 499,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69bbac54b00155f2e0cc793c.webp",
+        "description": "Explore Bhilawa Seeds Powder 100% from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/bhilawa-seeds-powder-100-/69bbac54b00155f2e0cc793c",
+        "variants": [
+            {
+                "id": "69bbac54b00155f2e0cc793c-6a3d14100ca58d5116f3ffec",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69bba8c8b00155f2e0cc7599",
+        "sourceId": "69bba8c8b00155f2e0cc7599",
+        "name": "Banyan Aerial Roots Powder",
+        "fullName": "Banyan Aerial Roots Powder – 100% Pure & Natural Bargad Jad Powder for Health & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69bba8c8b00155f2e0cc7599.webp",
+        "description": "Explore Banyan Aerial Roots Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/banyan-aerial-roots-powder/69bba8c8b00155f2e0cc7599",
+        "variants": [
+            {
+                "id": "69bba8c8b00155f2e0cc7599-6a3d14880ca58d5116f40607",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69bba3cbb00155f2e0cc6728",
+        "sourceId": "69bba3cbb00155f2e0cc6728",
+        "name": "Bala Panchang Powder",
+        "fullName": "Bala Panchang Powder – 100% Pure & Natural Ayurvedic Herbal Powder for Strength & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 499,
+        "inStock": false,
+        "stockQty": 0,
+        "sourceVariantId": "69bba3cbb00155f2e0cc6728-6a3d15d80ca58d5116f41b06",
+        "size": "200g",
+        "image": "catalogue/69bba3cbb00155f2e0cc6728.webp",
+        "description": "Explore Bala Panchang Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/bala-panchang-powder/69bba3cbb00155f2e0cc6728",
+        "variants": [
+            {
+                "id": "69bba3cbb00155f2e0cc6728-6a3d15d80ca58d5116f41b06",
+                "size": "200g",
+                "price": 160,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69bb9f51b00155f2e0cc558b",
+        "sourceId": "69bb9f51b00155f2e0cc558b",
+        "name": "Bal Harad Powder",
+        "fullName": "Bal Harad Powder – 100% Pure & Natural Ayurvedic Powder for Digestion & Child Wellness",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69bb9f51b00155f2e0cc558b.webp",
+        "description": "Explore Bal Harad Powder from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/bal-harad-powder/69bb9f51b00155f2e0cc558b",
+        "variants": [
+            {
+                "id": "69bb9f51b00155f2e0cc558b-6a3d17490ca58d5116f42a72",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69bb94adb00155f2e0cc3981",
+        "sourceId": "69bb94adb00155f2e0cc3981",
+        "name": "Babool Chhal Powder",
+        "fullName": "Babool Chhal Powder – 100% Pure & Natural Acacia Bark Powder for Teeth, Skin & Hair Care",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69bb94adb00155f2e0cc3981.webp",
+        "description": "Explore Babool Chhal Powder from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/babool-chhal-powder/69bb94adb00155f2e0cc3981",
+        "variants": [
+            {
+                "id": "69bb94adb00155f2e0cc3981-6a3d17ba0ca58d5116f43513",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69bb869bb00155f2e0cc20e5",
+        "sourceId": "69bb869bb00155f2e0cc20e5",
+        "name": "Ashwagandha Seeds Powder",
+        "fullName": "Ashwagandha Seeds Powder – 100% Pure & Natural Herbal Powder for Strength, Energy & Wellnes",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 260,
+        "mrp": 499,
+        "inStock": false,
+        "stockQty": 0,
+        "sourceVariantId": "69bb869bb00155f2e0cc20e5-6a3d18920ca58d5116f44753",
+        "size": "200g",
+        "image": "catalogue/69bb869bb00155f2e0cc20e5.webp",
+        "description": "Explore Ashwagandha Seeds Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/ashwagandha-seeds-powder/69bb869bb00155f2e0cc20e5",
+        "variants": [
+            {
+                "id": "69bb869bb00155f2e0cc20e5-6a3d18920ca58d5116f44753",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69ba9862b00155f2e0cb66f4",
+        "sourceId": "69ba9862b00155f2e0cb66f4",
+        "name": "Ambadi Seed Powder",
+        "fullName": "Ambadi Seed Powder – 100% Pure & Natural Herbal Powder for Hair, Skin & Wellness",
+        "category": "Hair Care",
+        "badge": "Hair Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ba9862b00155f2e0cb66f4.webp",
+        "description": "Explore Ambadi Seed Powder from Lebrostone’s Hair Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Hair Care",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/ambadi-seed-powder/69ba9862b00155f2e0cb66f4",
+        "variants": [
+            {
+                "id": "69ba9862b00155f2e0cb66f4-6a3d19520ca58d5116f45af5",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69ba8d4cb00155f2e0cb263d",
+        "sourceId": "69ba8d4cb00155f2e0cb263d",
+        "name": "Reetha Powder",
+        "fullName": "Reetha Powder – 100% Pure & Natural Herbal Powder for Hair Cleanser & Scalp Care",
+        "category": "Hair Care",
+        "badge": "Hair Care",
+        "concerns": [],
+        "price": 135,
+        "mrp": 310,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "100 g",
+        "image": "catalogue/69ba8d4cb00155f2e0cb263d.webp",
+        "description": "Explore Reetha Powder from Lebrostone’s Hair Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Hair Care",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/reetha-powder/69ba8d4cb00155f2e0cb263d",
+        "variants": []
+    },
+    {
+        "id": "69ba8803b00155f2e0cb0d62",
+        "sourceId": "69ba8803b00155f2e0cb0d62",
+        "name": "Harad Powder",
+        "fullName": "Harad Powder – 100% Pure & Natural Herbal Powder for Digestion, Detox & Wellness",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ba8803b00155f2e0cb0d62.webp",
+        "description": "Explore Harad Powder from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/harad-powder/69ba8803b00155f2e0cb0d62",
+        "variants": [
+            {
+                "id": "69ba8803b00155f2e0cb0d62-6a3e63620ca58d5116040049",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 500
+            }
+        ]
+    },
+    {
+        "id": "69ba7f90b00155f2e0caccba",
+        "sourceId": "69ba7f90b00155f2e0caccba",
+        "name": "Neem Bark Powder",
+        "fullName": "Neem Bark Powder – 100% Pure & Natural Neem Chhal Powder for Skin, Hair & Herbal Care",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ba7f90b00155f2e0caccba.webp",
+        "description": "Explore Neem Bark Powder from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/neem-bark-powder/69ba7f90b00155f2e0caccba",
+        "variants": [
+            {
+                "id": "69ba7f90b00155f2e0caccba-6a3e64b00ca58d511604164d",
+                "size": "200g",
+                "price": 259,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69ba79a5b00155f2e0cab7f1",
+        "sourceId": "69ba79a5b00155f2e0cab7f1",
+        "name": "Nagarmotha Powder",
+        "fullName": "Nagarmotha Powder – 100% Pure & Natural Herbal Powder for Skin, Hair & Wellness",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 140,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ba79a5b00155f2e0cab7f1.webp",
+        "description": "Explore Nagarmotha Powder from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/nagarmotha-powder/69ba79a5b00155f2e0cab7f1",
+        "variants": [
+            {
+                "id": "69ba79a5b00155f2e0cab7f1-6a3e65280ca58d5116041afc",
+                "size": "200g",
+                "price": 160,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69ba74ccb00155f2e0ca9d87",
+        "sourceId": "69ba74ccb00155f2e0ca9d87",
+        "name": "Lavender Flower Powder",
+        "fullName": "Lavender Flower Powder – 100% Pure & Natural Herbal Powder for Skin, Hair & Aromatherapy",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ba74ccb00155f2e0ca9d87.webp",
+        "description": "Explore Lavender Flower Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/lavender-flower-powder/69ba74ccb00155f2e0ca9d87",
+        "variants": [
+            {
+                "id": "69ba74ccb00155f2e0ca9d87-6a3e65b30ca58d51160420f4",
+                "size": "200g",
+                "price": 259,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 98
+            }
+        ]
+    },
+    {
+        "id": "69ba6fdfb00155f2e0ca903d",
+        "sourceId": "69ba6fdfb00155f2e0ca903d",
+        "name": "Laung Powder",
+        "fullName": "Laung Powder – 100% Natural Clove Powder for Digestion, Oral Care & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ba6fdfb00155f2e0ca903d.webp",
+        "description": "Explore Laung Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/laung-powder/69ba6fdfb00155f2e0ca903d",
+        "variants": [
+            {
+                "id": "69ba6fdfb00155f2e0ca903d-6a3e6b290ca58d51160481b7",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 99
+            }
+        ]
+    },
+    {
+        "id": "69ba5f95b00155f2e0ca6793",
+        "sourceId": "69ba5f95b00155f2e0ca6793",
+        "name": "Kusum Petals Powder",
+        "fullName": "Kusum Petals Powder – 100% Natural Herbal Powder for Hair Care, Skin Care & Wellness",
+        "category": "Hair Care",
+        "badge": "Hair Care",
+        "concerns": [],
+        "price": 200,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": 100,
+        "sourceVariantId": "69ba5f95b00155f2e0ca6793-6a156997da153ef50fc0700d",
+        "size": "200g",
+        "image": "catalogue/69ba5f95b00155f2e0ca6793.webp",
+        "description": "Explore Kusum Petals Powder from Lebrostone’s Hair Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/kusum-petals-powder/69ba5f95b00155f2e0ca6793",
+        "variants": [
+            {
+                "id": "69ba5f95b00155f2e0ca6793-6a156997da153ef50fc0700d",
+                "size": "200g",
+                "price": 200,
+                "mrp": 299,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69ba55c7b00155f2e0ca3c48",
+        "sourceId": "69ba55c7b00155f2e0ca3c48",
+        "name": "Kali Musli Powder",
+        "fullName": "Kali Musli Powder – 100% Natural Ayurvedic Herbal Powder for Strength, Stamina & Vitality",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 260,
+        "mrp": 499,
+        "inStock": true,
+        "stockQty": 100,
+        "sourceVariantId": "69ba55c7b00155f2e0ca3c48-6a1568dada153ef50fc060ef",
+        "size": "200g",
+        "image": "catalogue/69ba55c7b00155f2e0ca3c48.webp",
+        "description": "Explore Kali Musli Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/kali-musli-powder/69ba55c7b00155f2e0ca3c48",
+        "variants": [
+            {
+                "id": "69ba55c7b00155f2e0ca3c48-6a1568dada153ef50fc060ef",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "jamun",
+        "sourceId": "69ba5264b00155f2e0ca2fbb",
+        "name": "Jamun Seed Powder",
+        "fullName": "jamun Seed Powder – 100% Natural Ayurvedic Herbal Powder for Blood Sugar Support & Digestion",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ba5264b00155f2e0ca2fbb.webp",
+        "description": "Explore Jamun Seed Powder from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/jamun-seed-powder/69ba5264b00155f2e0ca2fbb",
+        "variants": [
+            {
+                "id": "69ba5264b00155f2e0ca2fbb-69c2394d0f6be3fb14ec3509",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69ba5005b00155f2e0ca29cc",
+        "sourceId": "69ba5005b00155f2e0ca29cc",
+        "name": "Imli Beej Powder",
+        "fullName": "Imli Beej Powder – 100% Natural Tamarind Seed Powder for Digestion, Joint Support & Wellness",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ba5005b00155f2e0ca29cc.webp",
+        "description": "Explore Imli Beej Powder from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/imli-beej-powder/69ba5005b00155f2e0ca29cc",
+        "variants": [
+            {
+                "id": "69ba5005b00155f2e0ca29cc-6a1567fbda153ef50fc0574b",
+                "size": "200g",
+                "price": 190,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69ba48fbb00155f2e0ca0be0",
+        "sourceId": "69ba48fbb00155f2e0ca0be0",
+        "name": "Vaividang Powder",
+        "fullName": "Vaividang Powder – 100% Natural Ayurvedic Herbal Powder for Digestion & Wellness",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ba48fbb00155f2e0ca0be0.webp",
+        "description": "Explore Vaividang Powder from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/vaividang-powder/69ba48fbb00155f2e0ca0be0",
+        "variants": [
+            {
+                "id": "69ba48fbb00155f2e0ca0be0-6a1571a2da153ef50fc0b3e9",
+                "size": "200g",
+                "price": 250,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69ba4637b00155f2e0c9f947",
+        "sourceId": "69ba4637b00155f2e0c9f947",
+        "name": "Talmakhana Seeds Powder",
+        "fullName": "Talmakhana Seeds Powder – 100% Natural Ayurvedic Herbal Powder for Strength, Stamina & Vitality",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ba4637b00155f2e0c9f947.webp",
+        "description": "Explore Talmakhana Seeds Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/talmakhana-seeds-powder/69ba4637b00155f2e0c9f947",
+        "variants": [
+            {
+                "id": "69ba4637b00155f2e0c9f947-6a157164da153ef50fc0afe8",
+                "size": "200g",
+                "price": 250,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69ba4329b00155f2e0c9e3f1",
+        "sourceId": "69ba4329b00155f2e0c9e3f1",
+        "name": "Shatavari Yellow Root Powder",
+        "fullName": "Shatavari Yellow Root Powder – 100% Natural Ayurvedic Herbal Powder for Women’s Health & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ba4329b00155f2e0c9e3f1.webp",
+        "description": "Explore Shatavari Yellow Root Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/shatavari-yellow-root-powder/69ba4329b00155f2e0c9e3f1",
+        "variants": [
+            {
+                "id": "69ba4329b00155f2e0c9e3f1-69df3ff942763c4cfe9076a5",
+                "size": "200g",
+                "price": 250,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69ba3f11b00155f2e0c9c8fa",
+        "sourceId": "69ba3f11b00155f2e0c9c8fa",
+        "name": "Shatavari White Root Powder",
+        "fullName": "Shatavari White Root Powder – 100% Natural Ayurvedic Herbal Powder for Women’s Health, Hormonal Balance & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ba3f11b00155f2e0c9c8fa.webp",
+        "description": "Explore Shatavari White Root Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/shatavari-white-root-powder/69ba3f11b00155f2e0c9c8fa",
+        "variants": [
+            {
+                "id": "69ba3f11b00155f2e0c9c8fa-6a1570bcda153ef50fc0ab39",
+                "size": "200g",
+                "price": 250,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69ba3a83b00155f2e0c9abd2",
+        "sourceId": "69ba3a83b00155f2e0c9abd2",
+        "name": "Semal Musli Powder",
+        "fullName": "Semal Musli Powder – 100% Natural Ayurvedic Herbal Powder for Strength, Stamina & Vitality",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ba3a83b00155f2e0c9abd2.webp",
+        "description": "Explore Semal Musli Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/semal-musli-powder/69ba3a83b00155f2e0c9abd2",
+        "variants": [
+            {
+                "id": "69ba3a83b00155f2e0c9abd2-6a157096da153ef50fc0aa2a",
+                "size": "200g",
+                "price": 250,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69ba37efb00155f2e0c9a089",
+        "sourceId": "69ba37efb00155f2e0c9a089",
+        "name": "Punarnava Root Powder",
+        "fullName": "Punarnava Root Powder – 100% Natural Ayurvedic Herbal Powder for Kidney Health, Detox & Wellness.",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ba37efb00155f2e0c9a089.webp",
+        "description": "Explore Punarnava Root Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/punarnava-root-powder/69ba37efb00155f2e0c9a089",
+        "variants": [
+            {
+                "id": "69ba37efb00155f2e0c9a089-6a156ffeda153ef50fc0a635",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69ba35e2b00155f2e0c9809e",
+        "sourceId": "69ba35e2b00155f2e0c9809e",
+        "name": "Pashanbhed Root Powder",
+        "fullName": "Pashanbhed Root Powder – 100% Natural Ayurvedic Herbal Powder for Kidney Health & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ba35e2b00155f2e0c9809e.webp",
+        "description": "Explore Pashanbhed Root Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/pashanbhed-root-powder/69ba35e2b00155f2e0c9809e",
+        "variants": [
+            {
+                "id": "69ba35e2b00155f2e0c9809e-6a156f54da153ef50fc0a07e",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69ba32a2b00155f2e0c9650a",
+        "sourceId": "69ba32a2b00155f2e0c9650a",
+        "name": "Nagkesar Powder",
+        "fullName": "Nagkesar Powder – 100% Natural Ayurvedic Herbal Powder for Digestion, Skin & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ba32a2b00155f2e0c9650a.webp",
+        "description": "Explore Nagkesar Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/nagkesar-powder/69ba32a2b00155f2e0c9650a",
+        "variants": [
+            {
+                "id": "69ba32a2b00155f2e0c9650a-6a156e9eda153ef50fc099b4",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b94a19b00155f2e0c8b002",
+        "sourceId": "69b94a19b00155f2e0c8b002",
+        "name": "Mulethi Powder",
+        "fullName": "Mulethi Powder – 100% Natural Licorice Root Powder for Digestion, Throat Care & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b94a19b00155f2e0c8b002.webp",
+        "description": "Explore Mulethi Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/mulethi-powder/69b94a19b00155f2e0c8b002",
+        "variants": [
+            {
+                "id": "69b94a19b00155f2e0c8b002-6a156e1eda153ef50fc09569",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b947fbb00155f2e0c8a918",
+        "sourceId": "69b947fbb00155f2e0c8a918",
+        "name": "Kaunch Beej White Powder",
+        "fullName": "Kaunch Beej White Powder – 100% Natural Ayurvedic Herbal Powder for Strength, Stamina & Vitality",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b947fbb00155f2e0c8a918.webp",
+        "description": "Explore Kaunch Beej White Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/kaunch-beej-white-powder/69b947fbb00155f2e0c8a918",
+        "variants": [
+            {
+                "id": "69b947fbb00155f2e0c8a918-69df44ee42763c4cfe90911f",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b94586b00155f2e0c8a268",
+        "sourceId": "69b94586b00155f2e0c8a268",
+        "name": "Lodhra Powder",
+        "fullName": "Lodhra Powder – 100% Natural Ayurvedic Herbal Powder for Skin Care & Women’s Wellness",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b94586b00155f2e0c8a268.webp",
+        "description": "Explore Lodhra Powder from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/lodhra-powder/69b94586b00155f2e0c8a268",
+        "variants": [
+            {
+                "id": "69b94586b00155f2e0c8a268-6a156b14da153ef50fc07fde",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b94208b00155f2e0c89b1d",
+        "sourceId": "69b94208b00155f2e0c89b1d",
+        "name": "Kachnar Bark Powder",
+        "fullName": "Kachnar Bark Powder – 100% Natural Ayurvedic Herbal Powder for Thyroid Support & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b94208b00155f2e0c89b1d.webp",
+        "description": "Explore Kachnar Bark Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/kachnar-bark-powder/69b94208b00155f2e0c89b1d",
+        "variants": [
+            {
+                "id": "69b94208b00155f2e0c89b1d-6a156891da153ef50fc05e73",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b924e0b00155f2e0c864c7",
+        "sourceId": "69b924e0b00155f2e0c864c7",
+        "name": "Isabgol Husk",
+        "fullName": "Isabgol Husk – 100% Natural Psyllium Husk for Digestion, Fiber Support & Gut Health",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b924e0b00155f2e0c864c7.webp",
+        "description": "Explore Isabgol Husk from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/isabgol-husk/69b924e0b00155f2e0c864c7",
+        "variants": [
+            {
+                "id": "69b924e0b00155f2e0c864c7-69df455842763c4cfe909874",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b92207b00155f2e0c85ecb",
+        "sourceId": "69b92207b00155f2e0c85ecb",
+        "name": "Indrajau Meetha Powder",
+        "fullName": "Indrajau Meetha Powder – 100% Natural Ayurvedic Herbal Powder for Digestion & Wellness",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b92207b00155f2e0c85ecb.webp",
+        "description": "Explore Indrajau Meetha Powder from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/indrajau-meetha-powder/69b92207b00155f2e0c85ecb",
+        "variants": [
+            {
+                "id": "69b92207b00155f2e0c85ecb-69df45a942763c4cfe909b37",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b91caab00155f2e0c843f0",
+        "sourceId": "69b91caab00155f2e0c843f0",
+        "name": "Indigo Leaves Powder",
+        "fullName": "Indigo Leaves Powder – 100% Natural Indigo Powder for Hair Coloring & Scalp Care",
+        "category": "Hair Care",
+        "badge": "Hair Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b91caab00155f2e0c843f0.webp",
+        "description": "Explore Indigo Leaves Powder from Lebrostone’s Hair Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Hair Care",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/indigo-leaves-powder/69b91caab00155f2e0c843f0",
+        "variants": [
+            {
+                "id": "69b91caab00155f2e0c843f0-6a156847da153ef50fc05caa",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b90a9cb00155f2e0c8256c",
+        "sourceId": "69b90a9cb00155f2e0c8256c",
+        "name": "Hadjod Lakdi Powder",
+        "fullName": "Hadjod Lakdi Powder – 100% Natural Ayurvedic Herbal Powder for Bone Strength & Joint Support",
+        "category": "Joint Pain",
+        "badge": "Joint Pain",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b90a9cb00155f2e0c8256c.webp",
+        "description": "Explore Hadjod Lakdi Powder from Lebrostone’s Joint Pain collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Pain-relief",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/hadjod-lakdi-powder/69b90a9cb00155f2e0c8256c",
+        "variants": [
+            {
+                "id": "69b90a9cb00155f2e0c8256c-6ab75a5c5f23690f7cc7c6fe",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b90720b00155f2e0c8188f",
+        "sourceId": "69b90720b00155f2e0c8188f",
+        "name": "Guava Leaves Powder",
+        "fullName": "Guava Leaves Powder – 100% Natural Herbal Powder for Digestion, Oral Care & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b90720b00155f2e0c8188f.webp",
+        "description": "Explore Guava Leaves Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/guava-leaves-powder/69b90720b00155f2e0c8188f",
+        "variants": [
+            {
+                "id": "69b90720b00155f2e0c8188f-69df465642763c4cfe90a70c",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b9040bb00155f2e0c808f7",
+        "sourceId": "69b9040bb00155f2e0c808f7",
+        "name": "Gond Katira Powder",
+        "fullName": "Gond Katira Powder – 100% Natural Edible Gond for Cooling, Hydration & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b9040bb00155f2e0c808f7.webp",
+        "description": "Explore Gond Katira Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/gond-katira-powder/69b9040bb00155f2e0c808f7",
+        "variants": [
+            {
+                "id": "69b9040bb00155f2e0c808f7-6a1564f7da153ef50fc03690",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b9007eb00155f2e0c801e7",
+        "sourceId": "69b9007eb00155f2e0c801e7",
+        "name": "Gokhru Seed Powder",
+        "fullName": "Gokhru Seed Powder – 100% Natural Ayurvedic Herbal Powder for Vitality, Strength & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b9007eb00155f2e0c801e7.webp",
+        "description": "Explore Gokhru Seed Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/gokhru-seed-powder/69b9007eb00155f2e0c801e7",
+        "variants": [
+            {
+                "id": "69b9007eb00155f2e0c801e7-69df475f42763c4cfe90af4c",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b8fc4fb00155f2e0c7f5df",
+        "sourceId": "69b8fc4fb00155f2e0c7f5df",
+        "name": "Ginger Sonth Powder",
+        "fullName": "Ginger Sonth Powder – 100% Natural Dry Ginger Powder for Digestion, Immunity & Wellness",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b8fc4fb00155f2e0c7f5df.webp",
+        "description": "Explore Ginger Sonth Powder from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/ginger-sonth-powder/69b8fc4fb00155f2e0c7f5df",
+        "variants": [
+            {
+                "id": "69b8fc4fb00155f2e0c7f5df-69df47d842763c4cfe90b4c4",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b8f9a5b00155f2e0c7f0e8",
+        "sourceId": "69b8f9a5b00155f2e0c7f0e8",
+        "name": "Chopchini Powder",
+        "fullName": "Chopchini Powder – 100% Natural Ayurvedic Herbal Powder for Skin, Joint Support & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 300,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b8f9a5b00155f2e0c7f0e8.webp",
+        "description": "Explore Chopchini Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/chopchini-powder/69b8f9a5b00155f2e0c7f0e8",
+        "variants": [
+            {
+                "id": "69b8f9a5b00155f2e0c7f0e8-6a143b1cda153ef50fbb6f9b",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b8f629b00155f2e0c7e92b",
+        "sourceId": "69b8f629b00155f2e0c7e92b",
+        "name": "Chitrak Mool Powder",
+        "fullName": "Chitrak Mool Powder – 100% Natural Ayurvedic Herbal Powder for Digestion, Metabolism & Wellness",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b8f629b00155f2e0c7e92b.webp",
+        "description": "Explore Chitrak Mool Powder from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/chitrak-mool-powder/69b8f629b00155f2e0c7e92b",
+        "variants": [
+            {
+                "id": "69b8f629b00155f2e0c7e92b-6a143ad4da153ef50fbb6e84",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b8f23cb00155f2e0c7e4ea",
+        "sourceId": "69b8f23cb00155f2e0c7e4ea",
+        "name": "Bichhu Phal Powder",
+        "fullName": "Bichhu Phal Powder – 100% Natural Ayurvedic Herbal Powder for Wellness & Traditional Use",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b8f23cb00155f2e0c7e4ea.webp",
+        "description": "Explore Bichhu Phal Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/bichhu-phal-powder/69b8f23cb00155f2e0c7e4ea",
+        "variants": [
+            {
+                "id": "69b8f23cb00155f2e0c7e4ea-69df487f42763c4cfe90bdef",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b8eefeb00155f2e0c7dafa",
+        "sourceId": "69b8eefeb00155f2e0c7dafa",
+        "name": "Banslochan Powder",
+        "fullName": "Banslochan Powder – 100% Natural Bamboo Silica Powder for Strength, Immunity & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b8eefeb00155f2e0c7dafa.webp",
+        "description": "Explore Banslochan Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/banslochan-powder/69b8eefeb00155f2e0c7dafa",
+        "variants": [
+            {
+                "id": "69b8eefeb00155f2e0c7dafa-6a1432d6da153ef50fbb19de",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b7f4fcb00155f2e0c729ec",
+        "sourceId": "69b7f4fcb00155f2e0c729ec",
+        "name": "Baikumbha Powder",
+        "fullName": "Baikumbha Powder – 100% Natural Ayurvedic Herbal Powder for Wellness & Traditional Use",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b7f4fcb00155f2e0c729ec.webp",
+        "description": "Explore Baikumbha Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/baikumbha-powder/69b7f4fcb00155f2e0c729ec",
+        "variants": [
+            {
+                "id": "69b7f4fcb00155f2e0c729ec-69bb9968b00155f2e0cc4846",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b7f2b0b00155f2e0c71aa0",
+        "sourceId": "69b7f2b0b00155f2e0c71aa0",
+        "name": "Baheda Whole",
+        "fullName": "Baheda Whole – 100% Natural Ayurvedic Baheda (Terminalia Bellirica) for Digestion & Wellness",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 140,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b7f2b0b00155f2e0c71aa0.webp",
+        "description": "Explore Baheda Whole from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/baheda-whole/69b7f2b0b00155f2e0c71aa0",
+        "variants": [
+            {
+                "id": "69b7f2b0b00155f2e0c71aa0-69df4b0c42763c4cfe90cf3b",
+                "size": "200g",
+                "price": 170,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b7f002b00155f2e0c707c4",
+        "sourceId": "69b7f002b00155f2e0c707c4",
+        "name": "Badi Elaichi Powder",
+        "fullName": "Badi Elaichi Powder – 100% Natural Black Cardamom Powder for Flavor, Digestion & Wellness",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b7f002b00155f2e0c707c4.webp",
+        "description": "Explore Badi Elaichi Powder from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/badi-elaichi-powder/69b7f002b00155f2e0c707c4",
+        "variants": [
+            {
+                "id": "69b7f002b00155f2e0c707c4-6a142f23da153ef50fbaedf9",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b7ed8db00155f2e0c700e7",
+        "sourceId": "69b7ed8db00155f2e0c700e7",
+        "name": "Amarbel Powder",
+        "fullName": "Amarbel Powder – 100% Natural Ayurvedic Herbal Powder for Hair Care, Skin & Wellness",
+        "category": "Hair Care",
+        "badge": "Hair Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b7ed8db00155f2e0c700e7.webp",
+        "description": "Explore Amarbel Powder from Lebrostone’s Hair Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Hair Care",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/amarbel-powder/69b7ed8db00155f2e0c700e7",
+        "variants": [
+            {
+                "id": "69b7ed8db00155f2e0c700e7-69df4bba42763c4cfe90d592",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b7ea3cb00155f2e0c6fbba",
+        "sourceId": "69b7ea3cb00155f2e0c6fbba",
+        "name": "Atibala Panchang Powder",
+        "fullName": "Atibala Panchang Powder – 100% Natural Ayurvedic Herbal Powder for Strength, Energy & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 140,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b7ea3cb00155f2e0c6fbba.webp",
+        "description": "Explore Atibala Panchang Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/atibala-panchang-powder/69b7ea3cb00155f2e0c6fbba",
+        "variants": [
+            {
+                "id": "69b7ea3cb00155f2e0c6fbba-6a142e83da153ef50fbae3d1",
+                "size": "200g",
+                "price": 160,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b7e5e9b00155f2e0c6f072",
+        "sourceId": "69b7e5e9b00155f2e0c6f072",
+        "name": "Arjun Chhal Powder",
+        "fullName": "Arjun Chhal Powder – 100% Natural Ayurvedic Herbal Powder for Heart Health & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b7e5e9b00155f2e0c6f072.webp",
+        "description": "Explore Arjun Chhal Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/arjun-chhal-powder/69b7e5e9b00155f2e0c6f072",
+        "variants": [
+            {
+                "id": "69b7e5e9b00155f2e0c6f072-6a142ce3da153ef50fbad26c",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b7de55b00155f2e0c6deb1",
+        "sourceId": "69b7de55b00155f2e0c6deb1",
+        "name": "Annatto Seeds Powder",
+        "fullName": "Annatto Seeds Powder – 100% Natural Herbal & Spice Powder for Color, Flavor & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b7de55b00155f2e0c6deb1.webp",
+        "description": "Explore Annatto Seeds Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/annatto-seeds-powder/69b7de55b00155f2e0c6deb1",
+        "variants": [
+            {
+                "id": "69b7de55b00155f2e0c6deb1-69df582642763c4cfe90f5e2",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b7d9fbb00155f2e0c6d73a",
+        "sourceId": "69b7d9fbb00155f2e0c6d73a",
+        "name": "Amaltas Phali Powder",
+        "fullName": "Amaltas Phali Powder – 100% Natural Ayurvedic Herbal Powder for Digestion & Detox Support",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b7d9fbb00155f2e0c6d73a.webp",
+        "description": "Explore Amaltas Phali Powder from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/amaltas-phali-powder/69b7d9fbb00155f2e0c6d73a",
+        "variants": [
+            {
+                "id": "69b7d9fbb00155f2e0c6d73a-69df587142763c4cfe90fa8c",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b7d546b00155f2e0c6bcd5",
+        "sourceId": "69b7d546b00155f2e0c6bcd5",
+        "name": "Bael Patra Powder",
+        "fullName": "Bael Patra Powder – 100% Natural Ayurvedic Herbal Powder for Digestion & Wellness",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 130,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b7d546b00155f2e0c6bcd5.webp",
+        "description": "Explore Bael Patra Powder from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/bael-patra-powder/69b7d546b00155f2e0c6bcd5",
+        "variants": [
+            {
+                "id": "69b7d546b00155f2e0c6bcd5-69df58ba42763c4cfe90ffe6",
+                "size": "200g",
+                "price": 160,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b7d213b00155f2e0c6b74e",
+        "sourceId": "69b7d213b00155f2e0c6b74e",
+        "name": "Babchi Seeds Powder",
+        "fullName": "Babchi Seeds Powder – 100% Natural Ayurvedic Herbal Powder for Skin Care & Wellness",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 140,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b7d213b00155f2e0c6b74e.webp",
+        "description": "Explore Babchi Seeds Powder from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/babchi-seeds-powder/69b7d213b00155f2e0c6b74e",
+        "variants": [
+            {
+                "id": "69b7d213b00155f2e0c6b74e-69df593442763c4cfe91078a",
+                "size": "200g",
+                "price": 170,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b7bd2fb00155f2e0c689f2",
+        "sourceId": "69b7bd2fb00155f2e0c689f2",
+        "name": "Baheda Chhilka Powder",
+        "fullName": "Baheda Chhilka Powder – 100% Natural Ayurvedic Herbal Powder for Digestion, Hair & Wellness",
+        "category": "Hair Care",
+        "badge": "Hair Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b7bd2fb00155f2e0c689f2.webp",
+        "description": "Explore Baheda Chhilka Powder from Lebrostone’s Hair Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Hair Care",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/baheda-chhilka-powder/69b7bd2fb00155f2e0c689f2",
+        "variants": [
+            {
+                "id": "69b7bd2fb00155f2e0c689f2-6a1431cada153ef50fbb0eb7",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b7b854b00155f2e0c67baf",
+        "sourceId": "69b7b854b00155f2e0c67baf",
+        "name": "Babool Phali Powder",
+        "fullName": "Babool Phali Powder – 100% Natural Ayurvedic Herbal Powder for Oral Care, Digestion & Wellness",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 120,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b7b854b00155f2e0c67baf.webp",
+        "description": "Explore Babool Phali Powder from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/babool-phali-powder/69b7b854b00155f2e0c67baf",
+        "variants": [
+            {
+                "id": "69b7b854b00155f2e0c67baf-6a142edada153ef50fbae7f7",
+                "size": "200g",
+                "price": 140,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b79441b00155f2e0c60ba4",
+        "sourceId": "69b79441b00155f2e0c60ba4",
+        "name": "Dandelion Powder",
+        "fullName": "Dandelion Powder – 100% Natural Herbal Powder for Detox, Digestion & Wellness",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 160,
+        "mrp": 200,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b79441b00155f2e0c60ba4.webp",
+        "description": "Explore Dandelion Powder from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/dandelion-powder/69b79441b00155f2e0c60ba4",
+        "variants": [
+            {
+                "id": "69b79441b00155f2e0c60ba4-69b7b733b00155f2e0c6776c",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b7907db00155f2e0c5fefd",
+        "sourceId": "69b7907db00155f2e0c5fefd",
+        "name": "Brahmi Powder",
+        "fullName": "Brahmi Powder – 100% Natural Ayurvedic Herbal Powder for Brain Health, Memory & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b7907db00155f2e0c5fefd.webp",
+        "description": "Explore Brahmi Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/brahmi-powder/69b7907db00155f2e0c5fefd",
+        "variants": [
+            {
+                "id": "69b7907db00155f2e0c5fefd-6a143499da153ef50fbb2967",
+                "size": "200g",
+                "price": 190,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b78e3ab00155f2e0c5fbd0",
+        "sourceId": "69b78e3ab00155f2e0c5fbd0",
+        "name": "Giloy Powder",
+        "fullName": "Giloy Powder – 100% Natural Ayurvedic Herbal Powder for Immunity, Detox & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 130,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b78e3ab00155f2e0c5fbd0.webp",
+        "description": "Explore Giloy Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/giloy-powder/69b78e3ab00155f2e0c5fbd0",
+        "variants": [
+            {
+                "id": "69b78e3ab00155f2e0c5fbd0-6a155aadda153ef50fbfea97",
+                "size": "200g",
+                "price": 170,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b5505eb00155f2e0c54014",
+        "sourceId": "69b5505eb00155f2e0c54014",
+        "name": "AloeVera Leaves Powder",
+        "fullName": "AloeVera Leaves Powder – 100% Natural Herbal Powder for Skin Care, Hair Care & Wellness",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b5505eb00155f2e0c54014.webp",
+        "description": "Explore AloeVera Leaves Powder from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/aloevera-leaves-powder/69b5505eb00155f2e0c54014",
+        "variants": [
+            {
+                "id": "69b5505eb00155f2e0c54014-6a14258fda153ef50fba7a1d",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b54d5eb00155f2e0c53e27",
+        "sourceId": "69b54d5eb00155f2e0c53e27",
+        "name": "Salam Gatta Powder",
+        "fullName": "Salam Gatta Powder – 100% Natural Ayurvedic Herbal Powder for Strength, Energy & Vitality",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b54d5eb00155f2e0c53e27.webp",
+        "description": "Explore Salam Gatta Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/salam-gatta-powder/69b54d5eb00155f2e0c53e27",
+        "variants": [
+            {
+                "id": "69b54d5eb00155f2e0c53e27-6a157048da153ef50fc0a804",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b53b03b00155f2e0c52d46",
+        "sourceId": "69b53b03b00155f2e0c52d46",
+        "name": "Rose Hip Powder",
+        "fullName": "Rose Hip Powder – 100% Natural Herbal Powder for Skin Care, Antioxidants & Wellness",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b53b03b00155f2e0c52d46.webp",
+        "description": "Explore Rose Hip Powder from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/rose-hip-powder/69b53b03b00155f2e0c52d46",
+        "variants": [
+            {
+                "id": "69b53b03b00155f2e0c52d46-69e1ca7e42763c4cfe92f2d7",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b5365eb00155f2e0c52b5d",
+        "sourceId": "69b5365eb00155f2e0c52b5d",
+        "name": "Rose Petal Powder",
+        "fullName": "Rose Petal Powder – 100% Natural Dried Rose Flower Powder for Skin Care & Wellness",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 180,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b5365eb00155f2e0c52b5d.webp",
+        "description": "Explore Rose Petal Powder from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/rose-petal-powder/69b5365eb00155f2e0c52b5d",
+        "variants": [
+            {
+                "id": "69b5365eb00155f2e0c52b5d-6a143f68da153ef50fbb862d",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b533afb00155f2e0c527bc",
+        "sourceId": "69b533afb00155f2e0c527bc",
+        "name": "Quinoa Seed Powder",
+        "fullName": "Quinoa Seed Powder – 100% Natural Superfood Powder for Protein, Energy & Nutrition",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b533afb00155f2e0c527bc.webp",
+        "description": "Explore Quinoa Seed Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/quinoa-seed-powder/69b533afb00155f2e0c527bc",
+        "variants": [
+            {
+                "id": "69b533afb00155f2e0c527bc-69c244dc0f6be3fb14eca2eb",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b52dd5b00155f2e0c52026",
+        "sourceId": "69b52dd5b00155f2e0c52026",
+        "name": "Marigold Petals",
+        "fullName": "Marigold Petals – 100% Natural Dried Marigold Flower Petals for Herbal & Skin Care Use",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b52dd5b00155f2e0c52026.webp",
+        "description": "Explore Marigold Petals from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/marigold-petals/69b52dd5b00155f2e0c52026",
+        "variants": [
+            {
+                "id": "69b52dd5b00155f2e0c52026-69c24aa3c5d570bcbd4a3a3b",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b528b4b00155f2e0c51750",
+        "sourceId": "69b528b4b00155f2e0c51750",
+        "name": "Lemongrass Leaves",
+        "fullName": "Lemongrass Leaves – 100% Natural Herbal Leaves for Tea, Detox & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b528b4b00155f2e0c51750.webp",
+        "description": "Explore Lemongrass Leaves from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/lemongrass-leaves/69b528b4b00155f2e0c51750",
+        "variants": [
+            {
+                "id": "69b528b4b00155f2e0c51750-69c25751c5d570bcbd4a5069",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b51a806b42da2217b8164d",
+        "sourceId": "69b51a806b42da2217b8164d",
+        "name": "Kamarkas Gond Powder",
+        "fullName": "Kamarkas Gond Powder – 100% Natural Edible Gond for Strength, Energy & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b51a806b42da2217b8164d.webp",
+        "description": "Explore Kamarkas Gond Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/kamarkas-gond-powder/69b51a806b42da2217b8164d",
+        "variants": [
+            {
+                "id": "69b51a806b42da2217b8164d-6a156915da153ef50fc062de",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b518cd6b42da2217b80de5",
+        "sourceId": "69b518cd6b42da2217b80de5",
+        "name": "Anar Chhilka Powder",
+        "fullName": "Anar Chhilka Powder – 100% Natural Pomegranate Peel Powder for Skin, Digestion & Wellness",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b518cd6b42da2217b80de5.webp",
+        "description": "Explore Anar Chhilka Powder from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/anar-chhilka-powder/69b518cd6b42da2217b80de5",
+        "variants": [
+            {
+                "id": "69b518cd6b42da2217b80de5-6a1428a9da153ef50fba9569",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b516d06b42da2217b80b49",
+        "sourceId": "69b516d06b42da2217b80b49",
+        "name": "Kali Draksh Powder",
+        "fullName": "Kali Draksh Powder – 100% Natural Black Raisin Powder for Energy, Digestion & Wellness",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b516d06b42da2217b80b49.webp",
+        "description": "Explore Kali Draksh Powder from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/kali-draksh-powder/69b516d06b42da2217b80b49",
+        "variants": [
+            {
+                "id": "69b516d06b42da2217b80b49-69c25b06c5d570bcbd4a5d8c",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b514486b42da2217b807ed",
+        "sourceId": "69b514486b42da2217b807ed",
+        "name": "Jasmine Flower Powder",
+        "fullName": "Jasmine Flower Powder – 100% Natural Herbal Powder for Skin & Hair Care.",
+        "category": "Hair Care",
+        "badge": "Hair Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b514486b42da2217b807ed.webp",
+        "description": "Explore Jasmine Flower Powder from Lebrostone’s Hair Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/jasmine-flower-powder/69b514486b42da2217b807ed",
+        "variants": [
+            {
+                "id": "69b514486b42da2217b807ed-69c276c8c5d570bcbd4adefe",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b511fa6b42da2217b800ab",
+        "sourceId": "69b511fa6b42da2217b800ab",
+        "name": "Heena Leaves Powder",
+        "fullName": "Heena Leaves Powder – 100% Natural Henna Leaf Powder for Hair Coloring, Conditioning & Scalp Care",
+        "category": "Hair Care",
+        "badge": "Hair Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b511fa6b42da2217b800ab.webp",
+        "description": "Explore Heena Leaves Powder from Lebrostone’s Hair Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Hair Care",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/heena-leaves-powder/69b511fa6b42da2217b800ab",
+        "variants": [
+            {
+                "id": "69b511fa6b42da2217b800ab-6a1567abda153ef50fc05228",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b510916b42da2217b7fece",
+        "sourceId": "69b510916b42da2217b7fece",
+        "name": "Harsingar Powder",
+        "fullName": "Harsingar Powder – 100% Natural Ayurvedic Herbal Powder for Joint Comfort & Wellness",
+        "category": "Joint Pain",
+        "badge": "Joint Pain",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b510916b42da2217b7fece.webp",
+        "description": "Explore Harsingar Powder from Lebrostone’s Joint Pain collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Pain-relief",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/harsingar-powder/69b510916b42da2217b7fece",
+        "variants": [
+            {
+                "id": "69b510916b42da2217b7fece-69c25e23c5d570bcbd4a68df",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b50db56b42da2217b7fc00",
+        "sourceId": "69b50db56b42da2217b7fc00",
+        "name": "Akarkara Powder",
+        "fullName": "Akarkara Powder – 100% Natural Ayurvedic Herbal Powder for Strength, Stamina & Vitality",
+        "category": "Joint Pain",
+        "badge": "Joint Pain",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b50db56b42da2217b7fc00.webp",
+        "description": "Explore Akarkara Powder from Lebrostone’s Joint Pain collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/akarkara-powder/69b50db56b42da2217b7fc00",
+        "variants": [
+            {
+                "id": "69b50db56b42da2217b7fc00-69e1d39042763c4cfe931101",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b50a6c6b42da2217b7f898",
+        "sourceId": "69b50a6c6b42da2217b7f898",
+        "name": "Green Tea Leaves",
+        "fullName": "Green Tea Leaves – 100% Natural Herbal Tea for Antioxidants, Detox & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b50a6c6b42da2217b7f898.webp",
+        "description": "Explore Green Tea Leaves from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/green-tea-leaves/69b50a6c6b42da2217b7f898",
+        "variants": [
+            {
+                "id": "69b50a6c6b42da2217b7f898-69c25f46c5d570bcbd4a71a3",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b4f1126b42da2217b7abd8",
+        "sourceId": "69b4f1126b42da2217b7abd8",
+        "name": "Crown Flower Powder",
+        "fullName": "Crown Flower Powder – 100% Natural Herbal Powder for Skin & Hair Care",
+        "category": "Hair Care",
+        "badge": "Hair Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b4f1126b42da2217b7abd8.webp",
+        "description": "Explore Crown Flower Powder from Lebrostone’s Hair Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Hair Care",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/crown-flower-powder/69b4f1126b42da2217b7abd8",
+        "variants": [
+            {
+                "id": "69b4f1126b42da2217b7abd8-69b7ace6b00155f2e0c6517b",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b4eda66b42da2217b7a72f",
+        "sourceId": "69b4eda66b42da2217b7a72f",
+        "name": "Godanti Powder",
+        "fullName": "Godanti Powder – Natural Ayurvedic Powder for Wellness & Traditional Herbal Use",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b4eda66b42da2217b7a72f.webp",
+        "description": "Explore Godanti Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/godanti-powder/69b4eda66b42da2217b7a72f",
+        "variants": [
+            {
+                "id": "69b4eda66b42da2217b7a72f-69b8fe42b00155f2e0c7ff69",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b4011f6b42da2217b775ec",
+        "sourceId": "69b4011f6b42da2217b775ec",
+        "name": "Amba Haldi Powder",
+        "fullName": "Amba Haldi Powder – 100% Natural Wild Turmeric for Skin Care & Wellness",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b4011f6b42da2217b775ec.webp",
+        "description": "Explore Amba Haldi Powder from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/amba-haldi-powder/69b4011f6b42da2217b775ec",
+        "variants": [
+            {
+                "id": "69b4011f6b42da2217b775ec-69e1d53342763c4cfe931865",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b3fd5c6b42da2217b77360",
+        "sourceId": "69b3fd5c6b42da2217b77360",
+        "name": "Akarkara Panchang Powder",
+        "fullName": " Akarkara Panchang Powder – 100% Natural Ayurvedic Herbal Powder for Strength, Vitality & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b3fd5c6b42da2217b77360.webp",
+        "description": "Explore Akarkara Panchang Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/akarkara-panchang-powder/69b3fd5c6b42da2217b77360",
+        "variants": [
+            {
+                "id": "69b3fd5c6b42da2217b77360-69b3fe786b42da2217b7745b",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b3f58b6b42da2217b7614c",
+        "sourceId": "69b3f58b6b42da2217b7614c",
+        "name": "Beal Giri Powder",
+        "fullName": "Beal Giri Powder – 100% Natural Bael Fruit Powder for Digestive Health & Wellness",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b3f58b6b42da2217b7614c.webp",
+        "description": "Explore Beal Giri Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/beal-giri-powder/69b3f58b6b42da2217b7614c",
+        "variants": [
+            {
+                "id": "69b3f58b6b42da2217b7614c-69e1d7eb42763c4cfe931c8e",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b3f0666b42da2217b753be",
+        "sourceId": "69b3f0666b42da2217b753be",
+        "name": "Aavartika Flower Powder",
+        "fullName": "Aavartika Flower Powder – 100% Natural Ayurvedic Herbal Powder for Skin & Hair Care.",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b3f0666b42da2217b753be.webp",
+        "description": "Explore Aavartika Flower Powder from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Hair Care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/aavartika-flower-powder/69b3f0666b42da2217b753be",
+        "variants": [
+            {
+                "id": "69b3f0666b42da2217b753be-69b3f2036b42da2217b7583e",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b3e1da6b42da2217b7471c",
+        "sourceId": "69b3e1da6b42da2217b7471c",
+        "name": "Anardana Powder",
+        "fullName": "Anardana Powder – 100% Natural Pomegranate Seed Powder for Digestion & Flavor.",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b3e1da6b42da2217b7471c.webp",
+        "description": "Explore Anardana Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/anardana-powder/69b3e1da6b42da2217b7471c",
+        "variants": [
+            {
+                "id": "69b3e1da6b42da2217b7471c-69c262b1c5d570bcbd4a8170",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b3debe6b42da2217b7428e",
+        "sourceId": "69b3debe6b42da2217b7428e",
+        "name": "Blue Pea Powder",
+        "fullName": "Blue Pea Powder – 100% Natural Butterfly Pea Flower Powder for Skin, Hair & Herbal Tea.",
+        "category": "Hair Care",
+        "badge": "Hair Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b3debe6b42da2217b7428e.webp",
+        "description": "Explore Blue Pea Powder from Lebrostone’s Hair Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Hair Care",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/blue-pea-powder/69b3debe6b42da2217b7428e",
+        "variants": [
+            {
+                "id": "69b3debe6b42da2217b7428e-69c263eac5d570bcbd4a8893",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b3da7c6b42da2217b73ecb",
+        "sourceId": "69b3da7c6b42da2217b73ecb",
+        "name": "Shikakai Powder",
+        "fullName": "Shikakai Powder – 100% Natural Ayurvedic Herbal Powder for Hair Cleansing, Strength & Shine.",
+        "category": "Hair Care",
+        "badge": "Hair Care",
+        "concerns": [],
+        "price": 130,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b3da7c6b42da2217b73ecb.webp",
+        "description": "Explore Shikakai Powder from Lebrostone’s Hair Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Hair Care",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/shikakai-powder/69b3da7c6b42da2217b73ecb",
+        "variants": []
+    },
+    {
+        "id": "69b3caeb6b42da2217b7370f",
+        "sourceId": "69b3caeb6b42da2217b7370f",
+        "name": "Bhumi Amla Powder",
+        "fullName": "Bhumi Amla Powder – 100% Natural Ayurvedic Herbal Powder for Liver Health & Wellness.",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 130,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b3caeb6b42da2217b7370f.webp",
+        "description": "Explore Bhumi Amla Powder from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/bhumi-amla-powder/69b3caeb6b42da2217b7370f",
+        "variants": [
+            {
+                "id": "69b3caeb6b42da2217b7370f-6a1433d0da153ef50fbb23c4",
+                "size": "200g",
+                "price": 160,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b3c6b56b42da2217b7308f",
+        "sourceId": "69b3c6b56b42da2217b7308f",
+        "name": "Ashoka Bark Powder",
+        "fullName": "Ashoka Bark Powder – 100% Natural Ayurvedic Herbal Powder for Women’s Health & Wellness",
+        "category": "Women's Health",
+        "badge": "Women's Health",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b3c6b56b42da2217b7308f.webp",
+        "description": "Explore Ashoka Bark Powder from Lebrostone’s Women's Health collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "women Health",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/ashoka-bark-powder/69b3c6b56b42da2217b7308f",
+        "variants": [
+            {
+                "id": "69b3c6b56b42da2217b7308f-69e1de4942763c4cfe932a4d",
+                "size": "200",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b3c1326b42da2217b72d84",
+        "sourceId": "69b3c1326b42da2217b72d84",
+        "name": "Bharangi Powder",
+        "fullName": "Bharangi Powder – 100% Natural Ayurvedic Herbal Powder for Respiratory Health & Wellness.",
+        "category": "Weight Management",
+        "badge": "Weight Management",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b3c1326b42da2217b72d84.webp",
+        "description": "Explore Bharangi Powder from Lebrostone’s Weight Management collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "WEIGHT MANAGEMENT",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/bharangi-powder/69b3c1326b42da2217b72d84",
+        "variants": [
+            {
+                "id": "69b3c1326b42da2217b72d84-69e1de9442763c4cfe932d97",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b3b9226b42da2217b72802",
+        "sourceId": "69b3b9226b42da2217b72802",
+        "name": "Lahsun Powder",
+        "fullName": "Lahsun Powder – 100% Natural Garlic Powder for Immunity, Heart Health & Daily Nutrition.",
+        "category": "Digestion",
+        "badge": "Digestion",
+        "concerns": [],
+        "price": 150,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b3b9226b42da2217b72802.webp",
+        "description": "Explore Lahsun Powder from Lebrostone’s Digestion collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "DIGESTION",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/lahsun-powder/69b3b9226b42da2217b72802",
+        "variants": [
+            {
+                "id": "69b3b9226b42da2217b72802-6a1569b6da153ef50fc0728a",
+                "size": "200g",
+                "price": 190,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b3b48f6b42da2217b720a1",
+        "sourceId": "69b3b48f6b42da2217b720a1",
+        "name": "Beetroot Powder",
+        "fullName": "Beetroot Powder – 100% Natural Beet Root Powder for Energy, Immunity & Overall Health",
+        "category": "Skin Care",
+        "badge": "Skin Care",
+        "concerns": [],
+        "price": 160,
+        "mrp": 299,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b3b48f6b42da2217b720a1.webp",
+        "description": "Explore Beetroot Powder from Lebrostone’s Skin Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Skin care",
+            "Lebrostone",
+            "Follow the product label; external use as directed."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/beetroot-powder/69b3b48f6b42da2217b720a1",
+        "variants": [
+            {
+                "id": "69b3b48f6b42da2217b720a1-6a143381da153ef50fbb1fa3",
+                "size": "200g",
+                "price": 260,
+                "mrp": 499,
+                "inStock": true,
+                "stockQty": 100
+            }
+        ]
+    },
+    {
+        "id": "69b2af5c6b42da2217b6f043",
+        "sourceId": "69b2af5c6b42da2217b6f043",
+        "name": "No Discharge Powder",
+        "fullName": "No Discharge Powder – Ayurvedic Support for Women’s Intimate Health & White Discharge Control",
+        "category": "Women's Health",
+        "badge": "Women's Health",
+        "concerns": [],
+        "price": 350,
+        "mrp": 675,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69b2af5c6b42da2217b6f043.jpg",
+        "description": "Explore No Discharge Powder from Lebrostone’s Women's Health collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "women Health",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/no-discharge-powder/69b2af5c6b42da2217b6f043",
+        "variants": []
+    },
+    {
+        "id": "69afe7d85129d2bd4a8ae850",
+        "sourceId": "69afe7d85129d2bd4a8ae850",
+        "name": "Kaunch Beej Capsules",
+        "fullName": "Kaunch Beej Capsules – Ayurvedic Herbal Supplement for Strength, Stamina & Vitality",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [
+            "Energy Booster"
+        ],
+        "price": 299,
+        "mrp": 350,
+        "inStock": false,
+        "stockQty": 0,
+        "sourceVariantId": "69afe7d85129d2bd4a8ae850-69b26a7b6b42da2217b6b276",
+        "size": "45",
+        "image": "catalogue/69afe7d85129d2bd4a8ae850.webp",
+        "description": "Explore Kaunch Beej Capsules from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/kaunch-beej-capsules/69afe7d85129d2bd4a8ae850",
+        "variants": [
+            {
+                "id": "69afe7d85129d2bd4a8ae850-69b26a7b6b42da2217b6b276",
+                "size": "45",
+                "price": 299,
+                "mrp": 350,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "shilajit",
+        "sourceId": "69afc2255129d2bd4a8ac88d",
+        "name": "Pure Himalayan Shilajit Resin",
+        "fullName": "Pure Himalayan Shilajit Resin – Natural Energy Booster for Strength, Stamina & Vitality",
+        "category": "Men's Health",
+        "badge": "Men's Health",
+        "concerns": [
+            "Energy Booster"
+        ],
+        "price": 899,
+        "mrp": 1799,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69afc2255129d2bd4a8ac88d.webp",
+        "description": "Explore Pure Himalayan Shilajit Resin from Lebrostone’s Men's Health collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Man's Health",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/pure-himalayan-shilajit-resin/69afc2255129d2bd4a8ac88d",
+        "variants": [
+            {
+                "id": "69afc2255129d2bd4a8ac88d-6aacdb6fe2ae4c481f55ee68",
+                "size": "30g",
+                "price": 899,
+                "mrp": 1799,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69ae7dba5129d2bd4a8a8eea",
+        "sourceId": "69ae7dba5129d2bd4a8a8eea",
+        "name": "Hibiscus Powder",
+        "fullName": "Hibiscus Powder – Natural Herbal Powder for Hair Growth, Scalp Care & Healthy Hair",
+        "category": "Hair Care",
+        "badge": "Hair Care",
+        "concerns": [],
+        "price": 125,
+        "mrp": 330,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69ae7dba5129d2bd4a8a8eea.webp",
+        "description": "Explore Hibiscus Powder from Lebrostone’s Hair Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Hair Care",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/hibiscus-powder/69ae7dba5129d2bd4a8a8eea",
+        "variants": []
+    },
+    {
+        "id": "69ae75555129d2bd4a8a8b98",
+        "sourceId": "69ae75555129d2bd4a8a8b98",
+        "name": "Spirulina Capsules",
+        "fullName": "Spirulina Capsules – Natural Superfood for Energy, Immunity & Overall Health",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [],
+        "price": 226,
+        "mrp": 400,
+        "inStock": false,
+        "stockQty": 0,
+        "sourceVariantId": "69ae75555129d2bd4a8a8b98-69b148fc6b42da2217b650cb",
+        "size": "45",
+        "image": "catalogue/69ae75555129d2bd4a8a8b98.webp",
+        "description": "Explore Spirulina Capsules from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/spirulina-capsules/69ae75555129d2bd4a8a8b98",
+        "variants": [
+            {
+                "id": "69ae75555129d2bd4a8a8b98-69b148fc6b42da2217b650cb",
+                "size": "45",
+                "price": 226,
+                "mrp": 400,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69a02502296a08f0e919f74b",
+        "sourceId": "69a02502296a08f0e919f74b",
+        "name": "Rosemary Powder",
+        "fullName": "Rosemary Powder – 100% Natural Herbal Powder for Hair Care, Scalp Health & Wellness.",
+        "category": "Hair Care",
+        "badge": "Hair Care",
+        "concerns": [],
+        "price": 170,
+        "mrp": 340,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/69a02502296a08f0e919f74b.webp",
+        "description": "Explore Rosemary Powder from Lebrostone’s Hair Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Hair Care",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/rosemary-powder/69a02502296a08f0e919f74b",
+        "variants": [
+            {
+                "id": "69a02502296a08f0e919f74b-69c28026c5d570bcbd4afdd4",
+                "size": "200g",
+                "price": 199,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "699fffb274bf257df88f7bce",
+        "sourceId": "699fffb274bf257df88f7bce",
+        "name": "Bhringraj Powder",
+        "fullName": "Bhringraj Powder – 100% Natural Ayurvedic Powder for Hair Growth, Scalp Care & Healthy Hair.",
+        "category": "Hair Care",
+        "badge": "Hair Care",
+        "concerns": [],
+        "price": 122,
+        "mrp": 310,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/699fffb274bf257df88f7bce.webp",
+        "description": "Explore Bhringraj Powder from Lebrostone’s Hair Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Hair Care",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/bhringraj-powder/699fffb274bf257df88f7bce",
+        "variants": [
+            {
+                "id": "699fffb274bf257df88f7bce-69c28293c5d570bcbd4b0a62",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "699fda5674bf257df88f6d31",
+        "sourceId": "699fda5674bf257df88f6d31",
+        "name": "Amla Powder",
+        "fullName": " Amla Powder – Pure Ayurvedic Herbal Powder for Immunity, Digestion & Hair Health",
+        "category": "Hair Care",
+        "badge": "Hair Care",
+        "concerns": [],
+        "price": 130,
+        "mrp": 300,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "Standard pack",
+        "image": "catalogue/699fda5674bf257df88f6d31.webp",
+        "description": "Explore Amla Powder from Lebrostone’s Hair Care collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Hair Care",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/amla-powder/699fda5674bf257df88f6d31",
+        "variants": [
+            {
+                "id": "699fda5674bf257df88f6d31-69ba9245b00155f2e0cb4a43",
+                "size": "200g",
+                "price": 200,
+                "mrp": 499,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69996710fe50239843175def",
+        "sourceId": "69996710fe50239843175def",
+        "name": "Weight Gainer",
+        "fullName": "Weight Gainer – Ayurvedic Nutritional Supplement for Healthy Weight Gain & Strength",
+        "category": "Weight Management",
+        "badge": "Weight Management",
+        "concerns": [],
+        "price": 350,
+        "mrp": 720,
+        "inStock": true,
+        "stockQty": null,
+        "sourceVariantId": null,
+        "size": "100 g",
+        "image": "catalogue/69996710fe50239843175def.jpg",
+        "description": "Explore Weight Gainer from Lebrostone’s Weight Management collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "WEIGHT MANAGEMENT",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/weight-gainer/69996710fe50239843175def",
+        "variants": []
+    },
+    {
+        "id": "balm",
+        "sourceId": "69afc9cd5129d2bd4a8acd2c",
+        "name": "Pain Relief Balm 4(Pack)",
+        "fullName": "Pain Relief Balm 4(Pack) – Ayurvedic Balm for Headache, Muscle Pain, Joint Pain & Back Pain.",
+        "category": "Balm",
+        "badge": "Balm",
+        "concerns": [],
+        "price": null,
+        "mrp": 0,
+        "inStock": false,
+        "stockQty": 0,
+        "sourceVariantId": null,
+        "size": "4-pack",
+        "image": "catalogue/balm.webp",
+        "description": "Explore Pain Relief Balm 4(Pack) from Lebrostone’s Balm collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Pain-relief",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/pain-relief-balm-4-pack-/69afc9cd5129d2bd4a8acd2c",
+        "variants": []
+    },
+    {
+        "id": "699bf86386933d3cc9ecd60a",
+        "sourceId": "699bf86386933d3cc9ecd60a",
+        "name": "Akarkara Capsules",
+        "fullName": "Akarkara Capsules – Ayurvedic Herbal Supplement for Strength, Stamina & Vitality",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [
+            "Energy Booster"
+        ],
+        "price": 210,
+        "mrp": 400,
+        "inStock": false,
+        "stockQty": 0,
+        "sourceVariantId": "699bf86386933d3cc9ecd60a-69b257106b42da2217b69bfe",
+        "size": "45  Capsules",
+        "image": "catalogue/699bf86386933d3cc9ecd60a.webp",
+        "description": "Explore Akarkara Capsules from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/akarkara-capsules/699bf86386933d3cc9ecd60a",
+        "variants": [
+            {
+                "id": "699bf86386933d3cc9ecd60a-69b257106b42da2217b69bfe",
+                "size": "45  Capsules",
+                "price": 210,
+                "mrp": 400,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "69b29c336b42da2217b6d062",
+        "sourceId": "69b29c336b42da2217b6d062",
+        "name": "Shilajit Capsules",
+        "fullName": "Shilajit Capsules – Ayurvedic Supplement for Energy, Strength, Stamina & Vitality",
+        "category": "Men's Health",
+        "badge": "Men's Health",
+        "concerns": [
+            "Energy Booster"
+        ],
+        "price": 350,
+        "mrp": 450,
+        "inStock": false,
+        "stockQty": 0,
+        "sourceVariantId": "69b29c336b42da2217b6d062-69da115f42763c4cfe8bbca9",
+        "size": "90",
+        "image": "catalogue/69b29c336b42da2217b6d062.webp",
+        "description": "Explore Shilajit Capsules from Lebrostone’s Men's Health collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Men's Health",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/shilajit-capsules/69b29c336b42da2217b6d062",
+        "variants": [
+            {
+                "id": "69b29c336b42da2217b6d062-69da115f42763c4cfe8bbca9",
+                "size": "90",
+                "price": 350,
+                "mrp": 450,
+                "inStock": false,
+                "stockQty": 0
+            },
+            {
+                "id": "69b29c336b42da2217b6d062-69da115f42763c4cfe8bbcaa",
+                "size": "60",
+                "price": 300,
+                "mrp": 400,
+                "inStock": false,
+                "stockQty": 0
+            },
+            {
+                "id": "69b29c336b42da2217b6d062-69da115f42763c4cfe8bbcab",
+                "size": "45",
+                "price": 275,
+                "mrp": 375,
+                "inStock": false,
+                "stockQty": 0
+            },
+            {
+                "id": "69b29c336b42da2217b6d062-69da115f42763c4cfe8bbcac",
+                "size": "30",
+                "price": 250,
+                "mrp": 350,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "699bee4086933d3cc9ecd1a9",
+        "sourceId": "699bee4086933d3cc9ecd1a9",
+        "name": "Shatavari Capsules 30",
+        "fullName": " Shatavari Capsules 30 – Ayurvedic Herbal Supplement for Women’s Health, Hormonal Balance & Vitality",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [
+            "Energy Booster"
+        ],
+        "price": 299,
+        "mrp": 400,
+        "inStock": false,
+        "stockQty": 0,
+        "sourceVariantId": "699bee4086933d3cc9ecd1a9-69b15da66b42da2217b66b4f",
+        "size": "45",
+        "image": "catalogue/699bee4086933d3cc9ecd1a9.webp",
+        "description": "Explore Shatavari Capsules 30 from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/shatavari-capsules-30/699bee4086933d3cc9ecd1a9",
+        "variants": [
+            {
+                "id": "699bee4086933d3cc9ecd1a9-69b15da66b42da2217b66b4f",
+                "size": "45",
+                "price": 299,
+                "mrp": 400,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    },
+    {
+        "id": "6999682afe50239843175e45",
+        "sourceId": "6999682afe50239843175e45",
+        "name": "Gokshura Capsules",
+        "fullName": " Gokshura Capsules – Ayurvedic Herbal Supplement for Strength, Stamina & Urinary Health ",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [
+            "Energy Booster"
+        ],
+        "price": 249,
+        "mrp": 350,
+        "inStock": true,
+        "stockQty": 20,
+        "sourceVariantId": "6999682afe50239843175e45-69b135972866573f9969c930",
+        "size": "45",
+        "image": "catalogue/6999682afe50239843175e45.webp",
+        "description": "Explore Gokshura Capsules from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/gokshura-capsules/6999682afe50239843175e45",
+        "variants": [
+            {
+                "id": "6999682afe50239843175e45-69b135972866573f9969c930",
+                "size": "45",
+                "price": 249,
+                "mrp": 350,
+                "inStock": true,
+                "stockQty": 20
+            }
+        ]
+    },
+    {
+        "id": "699bf8b586933d3cc9ecd62c",
+        "sourceId": "699bf8b586933d3cc9ecd62c",
+        "name": "Ashwagandha Capsules",
+        "fullName": "Ashwagandha Capsules – Ayurvedic Herbal Supplement for Stress Relief, Strength & Vitality",
+        "category": "Daily Wellness",
+        "badge": "Daily Wellness",
+        "concerns": [
+            "Energy Booster"
+        ],
+        "price": 269,
+        "mrp": 400,
+        "inStock": false,
+        "stockQty": 0,
+        "sourceVariantId": "699bf8b586933d3cc9ecd62c-6a3a681545b3f57d5f3d77f0",
+        "size": "45",
+        "image": "catalogue/699bf8b586933d3cc9ecd62c.webp",
+        "description": "Explore Ashwagandha Capsules from Lebrostone’s Daily Wellness collection. Select the pack size below and read the product label before use.",
+        "details": [
+            "Daily Wellness",
+            "Lebrostone",
+            "Use only as directed on the product label."
+        ],
+        "sourceUrl": "https://lebrostone.com/product/ashwagandha-capsules/699bf8b586933d3cc9ecd62c",
+        "variants": [
+            {
+                "id": "699bf8b586933d3cc9ecd62c-6a3a681545b3f57d5f3d77f0",
+                "size": "45",
+                "price": 269,
+                "mrp": 400,
+                "inStock": false,
+                "stockQty": 0
+            }
+        ]
+    }
+]
